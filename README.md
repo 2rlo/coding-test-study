@@ -1,3 +1,17 @@
 # coding-test-study
 
-백준 >> https://github.com/tony9402/baekjoon</br>
+## RULE
+1. PR
+   - 본인임을 구분할 수 있는 브랜치 생성
+   - PR은 한 주의 문제를 다 풀고 난 뒤에 '[이름or닉네임] 0주차'로 작성
+     
+2. 시간
+  - 한 주의 문제 풀이는 일요일 밤 12시까지 완료 후 PR
+     
+3. 언어
+  - 기본 C++이되, 추가로 다른 언어 풀이 가능 
+
+## 참고
+백준 문제집 >> https://github.com/tony9402/baekjoon</br>
+
+## 주별 문제 리스트
