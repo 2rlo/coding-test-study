@@ -65,7 +65,7 @@
     <td class="tg-9wq8" rowspan="2">수학</td>
     <td class="tg-0pky">1669</td>
     <td class="tg-c3ow">멍멍이 쓰다듬기</td>
-    <td class="tg-j4xs" style="color: gold;">골드 5</td>
+    <td class="tg-j4xs">골드 5</td>
   </tr>
   <tr>
     <td class="tg-0pky">1188</td>
