@@ -68,7 +68,7 @@
   <tr>
     <td class="tg-nrix" rowspan="2">탐욕법</td>
     <td class="tg-0lax">2285 우체국</td>
-    <td class="tg-baqh">우체국 4</td>
+    <td class="tg-baqh">골드 4</td>
   </tr>
   <tr>
     <td class="tg-0pky">8980 택배 </td>
