@@ -29,6 +29,7 @@
   <tr>
     <th class="tg-7btt">주차</th>
     <th class="tg-7btt">알고리즘</th>
+    <th class="tg-7btt">번호</th>
     <th class="tg-7btt">문제</th>
     <th class="tg-7btt">난이도</th>
   </tr>
@@ -37,42 +38,50 @@
   <tr>
     <td class="tg-uzvj" rowspan="4">1주차</td>
     <td class="tg-9wq8" rowspan="2">자료구조</td>
-    <td class="tg-0pky">2493 탑</td>
-    <td class="tg-c3ow">골드 5</td>
+    <td class="tg-0pky">2493</td>
+    <td class="tg-c3ow">탑</td>
+    <td class="tg-j4xs">골드 5</td>
   </tr>
   <tr>
-    <td class="tg-0pky">1918 후위표기식</td>
-    <td class="tg-c3ow">골드 2</td>
+    <td class="tg-0pky">1918</td>
+    <td class="tg-c3ow">후위표기식</td>
+    <td class="tg-j4xs">골드 2</td>
   </tr>
   <tr>
     <td class="tg-nrix" rowspan="2">트리</td>
-    <td class="tg-0lax">11725 트리의 부모 찾기</td>
-    <td class="tg-baqh">실버 2</td>
+    <td class="tg-0lax">11725</td>
+    <td class="tg-c3ow">트리의 부모 찾기</td>
+    <td class="tg-j4xs">실버 2</td>
   </tr>
   <tr>
-    <td class="tg-0pky">3584 가장 가까운 공통 조상 </td>
-    <td class="tg-c3ow">골드 2</td>
+    <td class="tg-0pky">3584</td>
+    <td class="tg-c3ow">가장 가까운 공통 조상</td>
+    <td class="tg-j4xs">골드 2</td>
   </tr>
 </tbody>
 <tbody>
   <tr>
     <td class="tg-uzvj" rowspan="4">2주차</td>
     <td class="tg-9wq8" rowspan="2">수학</td>
-    <td class="tg-0pky">1669 멍멍이 쓰다듬기</td>
-    <td class="tg-c3ow">골드 5</td>
+    <td class="tg-0pky">1669</td>
+    <td class="tg-c3ow">멍멍이 쓰다듬기</td>
+    <td class="tg-j4xs">골드 5</td>
   </tr>
   <tr>
-    <td class="tg-0pky">1188 금식평론가</td>
-    <td class="tg-c3ow">골드 4</td>
+    <td class="tg-0pky">1188</td>
+    <td class="tg-c3ow">음식 평론가</td>
+    <td class="tg-j4xs">골드 4</td>
   </tr>
   <tr>
     <td class="tg-nrix" rowspan="2">탐욕법</td>
-    <td class="tg-0lax">2285 우체국</td>
-    <td class="tg-baqh">골드 4</td>
+    <td class="tg-0lax">2285</td>
+    <td class="tg-baqh">우체국</td>
+    <td class="tg-j4xs">골드 4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">8980 택배 </td>
-    <td class="tg-c3ow">골드 2</td>
+    <td class="tg-0pky">8980</td>
+    <td class="tg-c3ow">택배</td>
+    <td class="tg-j4xs">골드 1</td>
   </tr>
 </tbody>
 </table>
