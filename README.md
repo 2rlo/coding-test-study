@@ -54,4 +54,25 @@
     <td class="tg-c3ow">골드 2</td>
   </tr>
 </tbody>
+<tbody>
+  <tr>
+    <td class="tg-uzvj" rowspan="4">2주차</td>
+    <td class="tg-9wq8" rowspan="2">수학</td>
+    <td class="tg-0pky">1669 멍멍이 쓰다듬기</td>
+    <td class="tg-c3ow">골드 5</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">1188 금식평론가</td>
+    <td class="tg-c3ow">골드 4</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="2">탐욕법</td>
+    <td class="tg-0lax">2285 우체국</td>
+    <td class="tg-baqh">우체국 4</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">8980 택배 </td>
+    <td class="tg-c3ow">골드 2</td>
+  </tr>
+</tbody>
 </table>
