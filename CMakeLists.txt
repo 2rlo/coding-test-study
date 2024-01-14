@@ -10,4 +10,5 @@ add_executable(coding_test_study
         "2rlo/1주차/3584 가장 가까운 공통 조상.cpp"
         "2rlo/2주차/1669 멍멍이 쓰다듬기.cpp"
         "2rlo/2주차/1188 음식 평론가.cpp"
-        "2rlo/2주차/2285 우체국.cpp")
+        "2rlo/2주차/2285 우체국.cpp"
+        "2rlo/2주차/8980 택배.cpp")
