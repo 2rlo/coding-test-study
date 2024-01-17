@@ -84,4 +84,29 @@
     <td class="tg-j4xs">골드 1</td>
   </tr>
 </tbody>
+<tbody>
+  <tr>
+    <td class="tg-uzvj" rowspan="4">3주차</td>
+    <td class="tg-9wq8" rowspan="2">다이나믹</td>
+    <td class="tg-0pky">14722</td>
+    <td class="tg-c3ow">우유 도시</td>
+    <td class="tg-j4xs">골드 4</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">15486</td>
+    <td class="tg-c3ow">퇴사2</td>
+    <td class="tg-j4xs">골드 5</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="2">투포인터</td>
+    <td class="tg-0lax">15961</td>
+    <td class="tg-baqh">회전 초밥</td>
+    <td class="tg-j4xs">골드 4</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">22945</td>
+    <td class="tg-c3ow">팀빌딩</td>
+    <td class="tg-j4xs">골드 4</td>
+  </tr>
+</tbody>
 </table>
