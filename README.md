@@ -100,7 +100,7 @@
   <tr>
     <td class="tg-nrix" rowspan="2">투포인터</td>
     <td class="tg-0lax">15961</td>
-    <td class="tg-baqh">회전 초밥</td>
+    <td class="tg-baqh">회전 초밥</td>
     <td class="tg-j4xs">골드 4</td>
   </tr>
   <tr>
