@@ -105,7 +105,7 @@
   </tr>
   <tr>
     <td class="tg-0pky">22945</td>
-    <td class="tg-c3ow">팀빌딩</td>
+    <td class="tg-c3ow">팀 빌딩</td>
     <td class="tg-j4xs">골드 4</td>
   </tr>
 </tbody>
