@@ -109,4 +109,29 @@
     <td class="tg-j4xs">골드 4</td>
   </tr>
 </tbody>
+<tbody>
+  <tr>
+    <td class="tg-uzvj" rowspan="4">4주차</td>
+    <td class="tg-9wq8" rowspan="2">구현</td>
+    <td class="tg-0pky">22859</td>
+    <td class="tg-c3ow">HTML 파싱</td>
+    <td class="tg-j4xs">골드 3</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">22860</td>
+    <td class="tg-c3ow">폴더 정리 (small)</td>
+    <td class="tg-j4xs">골드 3</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="2">그래프 탐색</td>
+    <td class="tg-0lax">17836</td>
+    <td class="tg-baqh">공주님을 구해라!</td>
+    <td class="tg-j4xs">골드 5</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">9466</td>
+    <td class="tg-c3ow">텀 프로젝트</td>
+    <td class="tg-j4xs">골드 3</td>
+  </tr>
+</tbody>
 </table>
