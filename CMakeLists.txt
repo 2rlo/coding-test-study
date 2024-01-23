@@ -14,4 +14,5 @@ add_executable(coding_test_study
         "2rlo/2주차/8980 택배.cpp"
         "2rlo/3주차/15486 퇴사2.cpp"
         "2rlo/3주차/15961 회전 초밥.cpp"
-        "2rlo/3주차/22945 팀 빌딩.cpp")
+        "2rlo/3주차/22945 팀 빌딩.cpp"
+        "2rlo/3주차/14722 우유 도시.cpp")
