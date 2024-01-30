@@ -111,7 +111,7 @@
 </tbody>
 <tbody>
   <tr>
-    <td class="tg-uzvj" rowspan="4">4주차</td>
+    <td class="tg-uzvj" rowspan="4">4-5주차</td>
     <td class="tg-9wq8" rowspan="2">구현</td>
     <td class="tg-0pky">22859</td>
     <td class="tg-c3ow">HTML 파싱</td>
