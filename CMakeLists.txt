@@ -18,4 +18,5 @@ add_executable(coding_test_study
         "2rlo/3주차/14722 우유 도시.cpp"
         "2rlo/4주차/17836 공주님을 구해라!.cpp"
         "2rlo/4주차/9466 텀 프로젝트.cpp"
-        "2rlo/4주차/22859 HTML 파싱.cpp")
+        "2rlo/4주차/22859 HTML 파싱.cpp"
+        "2rlo/4주차/22860 폴더 정리 (small).cpp")
