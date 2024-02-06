@@ -136,7 +136,7 @@
 </tbody>
 <tbody>
   <tr>
-    <td class="tg-uzvj" rowspan="4">6주차</td>
+    <td class="tg-uzvj" rowspan="4">6,7주차</td>
     <td class="tg-9wq8" rowspan="2">완전 탐색</td>
     <td class="tg-0pky">21278</td>
     <td class="tg-c3ow">호석이 두 마리 치킨</td>
