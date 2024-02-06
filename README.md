@@ -134,4 +134,29 @@
     <td class="tg-j4xs">골드 3</td>
   </tr>
 </tbody>
+<tbody>
+  <tr>
+    <td class="tg-uzvj" rowspan="4">6주차</td>
+    <td class="tg-9wq8" rowspan="2">완전 탐색</td>
+    <td class="tg-0pky">21278</td>
+    <td class="tg-c3ow">호석이 두 마리 치킨</td>
+    <td class="tg-j4xs">골드 5</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">16637</td>
+    <td class="tg-c3ow">괄호 추가하기</td>
+    <td class="tg-j4xs">골드 3</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="2">이분 탐색</td>
+    <td class="tg-0lax">2110</td>
+    <td class="tg-c3ow">공유기 설치</td>
+    <td class="tg-j4xs">골드 4</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">1477</td>
+    <td class="tg-c3ow">휴게소 세우기</td>
+    <td class="tg-j4xs">골드 4</td>
+  </tr>
+</tbody>
 </table>
