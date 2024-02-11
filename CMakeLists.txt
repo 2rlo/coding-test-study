@@ -19,4 +19,6 @@ add_executable(coding_test_study
         "2rlo/4주차/17836 공주님을 구해라!.cpp"
         "2rlo/4주차/9466 텀 프로젝트.cpp"
         "2rlo/4주차/22859 HTML 파싱.cpp"
-        "2rlo/4주차/22860 폴더 정리 (small).cpp")
+        "2rlo/4주차/22860 폴더 정리 (small).cpp"
+        "2rlo/6주차/21278 호석이 두 마리 치킨.cpp"
+        "2rlo/6주차/16637 괄호 추가하기.cpp")
