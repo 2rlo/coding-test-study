@@ -159,4 +159,10 @@
     <td class="tg-j4xs">골드 4</td>
   </tr>
 </tbody>
+     <tbody>
+  <tr>
+    <td class="tg-uzvj">8주차</td>
+    <td class="tg-9wq8" colspan="4">정리 및 보충</td>
+  </tr>
+</tbody>
 </table>
