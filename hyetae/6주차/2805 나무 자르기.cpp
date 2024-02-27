@@ -1,4 +1,4 @@
-// 2805 나무 자르기 https://www.acmicpc.net/problem/2805
+// BOJ 2805 나무 자르기 https://www.acmicpc.net/problem/2805
 // Created by 윤혜경 on 2/13/24.
 
 #include <bits/stdc++.h>
