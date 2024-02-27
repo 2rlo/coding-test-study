@@ -21,4 +21,8 @@ add_executable(coding_test_study
         "2rlo/4주차/22859 HTML 파싱.cpp"
         "2rlo/4주차/22860 폴더 정리 (small).cpp"
         "2rlo/6주차/21278 호석이 두 마리 치킨.cpp"
-        "2rlo/6주차/16637 괄호 추가하기.cpp")
+        "2rlo/6주차/16637 괄호 추가하기.cpp"
+        "2rlo/7주차/2110 공유기 설치.cpp"
+        "2rlo/7주차/1477 휴게소 세우기.cpp"
+        "2rlo/7주차/2110 공유기 설치.cpp"
+        "2rlo/7주차/1477 휴게소 세우기.cpp")
