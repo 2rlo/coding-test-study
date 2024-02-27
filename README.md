@@ -165,4 +165,29 @@
     <td class="tg-9wq8" colspan="4">정리 및 보충</td>
   </tr>
 </tbody>
+<tbody>
+  <tr>
+    <td class="tg-uzvj" rowspan="4">9주차</td>
+    <td class="tg-9wq8" rowspan="2">백트래킹</td>
+    <td class="tg-0pky">2580</td>
+    <td class="tg-c3ow">스도쿠</td>
+    <td class="tg-j4xs">골드 4</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">18430</td>
+    <td class="tg-c3ow">무기 공학</td>
+    <td class="tg-j4xs">골드 4</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="2">분할정복</td>
+    <td class="tg-0lax">2448</td>
+    <td class="tg-c3ow">별 찍기 - 11</td>
+    <td class="tg-j4xs">골드 4</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">4256</td>
+    <td class="tg-c3ow">트리</td>
+    <td class="tg-j4xs">골드 2</td>
+  </tr>
+</tbody>
 </table>
