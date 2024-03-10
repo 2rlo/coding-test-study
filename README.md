@@ -190,4 +190,29 @@
     <td class="tg-j4xs">골드 2</td>
   </tr>
 </tbody>
+     <tbody>
+  <tr>
+    <td class="tg-uzvj" rowspan="4">10주차</td>
+    <td class="tg-9wq8" rowspan="2">누적합</td>
+    <td class="tg-0pky">20440</td>
+    <td class="tg-c3ow">🎵니가 싫어 싫어 너무 싫어 싫어 <br> 오지 마 내게 찝쩍대지마🎵 -1</td>
+    <td class="tg-j4xs">골드 3</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2015</td>
+    <td class="tg-c3ow">수들의 합 4</td>
+    <td class="tg-j4xs">골드 4</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="2">문자열</td>
+    <td class="tg-0lax">20437</td>
+    <td class="tg-c3ow">문자열 게임 2</td>
+    <td class="tg-j4xs">골드 5</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">17609</td>
+    <td class="tg-c3ow">회문</td>
+    <td class="tg-j4xs">골드 5</td>
+  </tr>
+</tbody>
 </table>
