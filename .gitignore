@@ -26,10 +26,13 @@
 *.a
 *.lib
 
+*.txt
+
 # Executables
 *.exe
 *.out
 *.app
 
 cmake-build-debug
+cmake-build-debug-mingw
 .idea
