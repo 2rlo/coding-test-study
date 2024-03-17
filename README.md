@@ -215,4 +215,18 @@
     <td class="tg-j4xs">골드 5</td>
   </tr>
 </tbody>
+<tbody>
+  <tr>
+    <td class="tg-uzvj" rowspan="4">11주차</td>
+    <td class="tg-9wq8" rowspan="2">최단거리</td>
+    <td class="tg-0pky">11265</td>
+    <td class="tg-c3ow">끝나지 않는 파티</td>
+    <td class="tg-j4xs">골드 5</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">1956</td>
+    <td class="tg-c3ow">운동</td>
+    <td class="tg-j4xs">골드 4</td>
+  </tr>
+</tbody>
 </table>
