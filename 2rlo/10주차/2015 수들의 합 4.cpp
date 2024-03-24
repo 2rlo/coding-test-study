@@ -16,16 +16,13 @@ int main() {
 
     long long ans = 0;
     int a[20001];
-    map<long long, long long> m;
+    map<int, long long> m;
+    m[0] = 1;
 
     for(int i=1; i<=n; i++){
         int tmp;
         cin >> tmp;
         a[i] = a[i-1] + tmp;
-    }
-
-    for(int i=1; i<=n; i++){
-        if(a[i] == k) ans++;
         ans += m[a[i]-k];
         m[a[i]]++;
     }
