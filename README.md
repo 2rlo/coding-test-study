@@ -229,4 +229,19 @@
     <td class="tg-j4xs">골드 4</td>
   </tr>
 </tbody>
+<tbody>
+  <tr>
+    <td class="tg-uzvj" rowspan="4">12주차</td>
+    <td class="tg-9wq8" rowspan="2">위상 정렬</td>
+    <td class="tg-0pky">1766</td>
+    <td class="tg-c3ow">문제집</td>
+    <td class="tg-j4xs">골드 2</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="2">분리 집합</td>
+    <td class="tg-0lax">1976</td>
+    <td class="tg-c3ow">여행 가자</td>
+    <td class="tg-j4xs">골드 4</td>
+  </tr>
+  </tbody>
 </table>
