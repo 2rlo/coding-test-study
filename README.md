@@ -244,4 +244,18 @@
     <td class="tg-j4xs">골드 4</td>
   </tr>
   </tbody>
+<tbody>
+  <tr>
+    <td class="tg-uzvj" rowspan="4">13주차</td>
+    <td class="tg-9wq8" rowspan="2">자료구조</td>
+    <td class="tg-0pky">21944</td>
+    <td class="tg-c3ow">문제 추천 시스템 Version 2</td>
+    <td class="tg-j4xs">골드 2</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">21942</td>
+    <td class="tg-c3ow">부품 대여장</td>
+    <td class="tg-j4xs">골드 2</td>
+  </tr>
+</tbody>
 </table>
