@@ -258,4 +258,18 @@
     <td class="tg-j4xs">골드 2</td>
   </tr>
 </tbody>
+     <tbody>
+  <tr>
+    <td class="tg-uzvj" rowspan="4">14주차</td>
+    <td class="tg-9wq8" rowspan="2">프로그래머스</td>
+    <td class="tg-0pky">2024 카카오인턴십</td>
+    <td class="tg-c3ow">가장 많이 받은 선물</td>
+    <td class="tg-j4xs">Lv.1</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2024 카카오인턴십</td>
+    <td class="tg-c3ow">도넛과 막대 그래프</td>
+    <td class="tg-j4xs">Lv.2</td>
+  </tr>
+</tbody>
 </table>
